@@ -17,7 +17,7 @@ https://ebraheem01.github.io/TechMovies/index.html
 
 Languages:
 
- - HTML
+- HTML
 
 ```
 ```
