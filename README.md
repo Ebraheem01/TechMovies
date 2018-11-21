@@ -11,11 +11,16 @@ Latest tech trends and the best sci-fi movies.
 ## Live Link
 https://ebraheem01.github.io/TechMovies/index.html
 
-## Prevalent Technologies Used
+## Prevalent Technologies and Tools Used
+
+```
+
+Languages:
 
  - HTML
 
-
+```
+```
 Tools:
 
 - VS Code
