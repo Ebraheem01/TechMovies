@@ -9,7 +9,8 @@ Latest tech trends and the best sci-fi movies.
 
 
 ## Live Link
-https://ebraheem01.github.io/TechMovies/index.html
+
+https://ebraheem01.github.io/tech_movies/index.html
 
 ## Prevalent Technologies and Tools Used
 
